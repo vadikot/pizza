@@ -1,0 +1,9 @@
+.order__form {
+    position: relative;
+    max-width: 350px;
+    margin-bottom: 10px;
+}
+
+.order__form__select {
+    margin-bottom: 10px;
+}

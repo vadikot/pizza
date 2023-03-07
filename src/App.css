@@ -1,0 +1,21 @@
+.App {
+    margin: 0 10px;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.app-button {
+    background: none;
+    padding: 5px 15px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.app-button:disabled {
+    border-color: gray;
+}

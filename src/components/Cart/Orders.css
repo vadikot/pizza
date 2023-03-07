@@ -1,0 +1,29 @@
+.calculation {
+    width: 100%;
+}
+
+.calculation__price-column {
+    text-align: center;
+}
+
+.calculation__price-column .price {
+    cursor: pointer;
+}
+
+.calculation__actions-column {
+    display: flex;
+    padding: 5px 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.calculation__summary {
+    text-align: right;
+    padding-right: 5px;
+}
+
+.calculation__sum {
+    text-align: right;
+    margin-right: 5px;
+}
